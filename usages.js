@@ -1,8 +1,8 @@
 const usages = {
     'source_0': {
-        "0x00090001": { 'name': 'Left button', 'class': 'mouse' },
-        "0x00090002": { 'name': 'Right button', 'class': 'mouse' },
-        "0x00090003": { 'name': 'Middle button', 'class': 'mouse' },
+        "0x00090001": { 'name': 'Bouton Gauche ', 'class': 'mouse' },
+        "0x00090002": { 'name': 'Bouton Droit', 'class': 'mouse' },
+        "0x00090003": { 'name': 'Bouton central', 'class': 'mouse' },
         "0x00090004": { 'name': 'Back', 'class': 'mouse' },
         "0x00090005": { 'name': 'Forward', 'class': 'mouse' },
         "0x00090006": { 'name': 'Button 6', 'class': 'mouse' },
